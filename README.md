@@ -14,24 +14,24 @@
 >>>      - *@arguments* target
 >>>      - *@description* 多类型深度克隆|包含数据或者对象的重合嵌套|(En:Multiple types of deep clone | contains overlapping nested | of data or objects)
 >>>   -  deepClone2()
->>>     - *@return* Object||Array
->>>     - *@arguments* target
->>>     - *@description* 简单数据深度克隆(En:Simple data depth cloning)     
+>>>      - *@return* Object||Array
+>>>      - *@arguments* target
+>>>      - *@description* 简单数据深度克隆(En:Simple data depth cloning)     
 >>>   -  arrayToHeavy1()
->>>     - *@return* Array
->>>     - *@arguments* array
->>>     - *@description* 闸门式数组去重(En:Gate array deduplication)     
+>>>      - *@return* Array
+>>>      - *@arguments* array
+>>>      - *@description* 闸门式数组去重(En:Gate array deduplication)     
 >>>   -  deepClone2()
->>>     - *@return* Array
->>>     - *@arguments* array
->>>     - *@description* ES6新数据结构Set去重(En:ES6 new data structure Set to be deduplicated)     
+>>>      - *@return* Array
+>>>      - *@arguments* array
+>>>      - *@description* ES6新数据结构Set去重(En:ES6 new data structure Set to be deduplicated)     
 >>>- JS动画工具函数(En:animationLibrary)
 >>>   -  getStyle()
->>>     - *@return* CSS-Style
->>>     - *@arguments* obj,name
+>>>      - *@return* CSS-Style
+>>>      - *@arguments* obj,name
 >>>       - obj:目标DOM元素对象(En:Target DOM element object)
 >>>       - name:目标DOM元素对象的CSS样式属性名(En:The CSS style attribute name of the target DOM element object)
->>>     - *@description* JS获取当前样式|兼容IE8以下浏览器|(En:JS gets the current style | compatible with IE8 and below browser |)  
+>>>      - *@description* JS获取当前样式|兼容IE8以下浏览器|(En:JS gets the current style | compatible with IE8 and below browser |)  
 >>>   -  moveFunction()
 >>>     - *@arguments* obj,target,speed,name,callback
 >>>       - obj:目标DOM元素对象(En:Target DOM element object)
