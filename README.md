@@ -33,10 +33,10 @@
 >>>       - name:目标DOM元素对象的CSS样式属性名(En:The CSS style attribute name of the target DOM element object)
 >>>      - *@description* JS获取当前样式|兼容IE8以下浏览器|(En:JS gets the current style | compatible with IE8 and below browser |)  
 >>>   -  moveFunction()
->>>     - *@arguments* obj,target,speed,name,callback
+>>>      - *@arguments* obj,target,speed,name,callback
 >>>       - obj:目标DOM元素对象(En:Target DOM element object)
 >>>       - target:移动目的地位置(单位：px)(En:Move destination position (unit: px))
 >>>       - speed:移动速度(单位：px)(En:Speed of movement (unit: px))
 >>>       - name:目标DOM元素对象的CSS样式属性名(En:The CSS style attribute name of the target DOM element object)
 >>>       - callback:所有动画执行完毕后所需要执行的动作(这个回调函数可选可不选)(En:The actions you need to perform after all the animations have been executed (this callback function is optional))
->>>     - *@description* JS原生缓慢动画帧函数(En:JS native slow animation frame function)   
+>>>      - *@description* JS原生缓慢动画帧函数(En:JS native slow animation frame function)   
