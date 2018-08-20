@@ -5,14 +5,14 @@
 >> - **API specification**
 >>>- 算法工具函数(En:AlgorithmsLibrary)
 >>>   -  checkType()
->>>     - *@return* String
->>>     - *@arguments* target
->>>     - *@parameters* [Array,Object,Function,Null,Undefined,Number,String,Boolean,symbol]
->>>     - *@description* 检测目标数据类型(En:Detect the target data type)
+>>>      - *@return* String
+>>>      - *@arguments* target
+>>>      - *@parameters* [Array,Object,Function,Null,Undefined,Number,String,Boolean,symbol]
+>>>      - *@description* 检测目标数据类型(En:Detect the target data type)
 >>>   -  deepClone1()
->>>     - *@return* Object||Array
->>>     - *@arguments* target
->>>     - *@description* 多类型深度克隆|包含数据或者对象的重合嵌套|(En:Multiple types of deep clone | contains overlapping nested | of data or objects)
+>>>      - *@return* Object||Array
+>>>      - *@arguments* target
+>>>      - *@description* 多类型深度克隆|包含数据或者对象的重合嵌套|(En:Multiple types of deep clone | contains overlapping nested | of data or objects)
 >>>   -  deepClone2()
 >>>     - *@return* Object||Array
 >>>     - *@arguments* target
