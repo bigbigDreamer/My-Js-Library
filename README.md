@@ -40,7 +40,7 @@
 >>>       - obj:目标DOM元素对象(En:Target DOM element object)
 >>>       - name:目标DOM元素对象的CSS样式属性名(En:The CSS style attribute name of the target DOM element object)
 >>>     - *@description* JS获取当前样式|兼容IE8以下浏览器|(En:JS gets the current style | compatible with IE8 and below browser |)  
->>>   -  moveFunction()
+>>>   -  moveFunction()  
 >>>     - *@arguments* obj,target,speed,name,callback
 >>>       - obj:目标DOM元素对象(En:Target DOM element object)
 >>>       - target:移动目的地位置(单位：px)(En:Move destination position (unit: px))

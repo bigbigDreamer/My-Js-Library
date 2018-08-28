@@ -106,7 +106,7 @@ module.exports = {
         saveTodos(todos){
             window.localStorage.setItem('key',JSON.stringify(todos));
         },
-        //本地localStorage读取
+        //本地localStorage 读取
         readTodos(){
             return  JSON.parse(window.localStorage.getItem('key'||[]));
         }
