@@ -101,6 +101,14 @@ module.exports = {
                 arr.push(i);
             }
             return arr;
+        },
+        //本地localStorage存储
+        saveTodos(todos){
+            window.localStorage.setItem('key',JSON.stringify(todos));
+        },
+        //本地localStorage读取
+        readTodos(){
+            return  JSON.parse(window.localStorage.getItem('key'||[]));
         }
     },
     //动画函数库
